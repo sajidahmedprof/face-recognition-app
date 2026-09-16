@@ -1,4 +1,5 @@
 streamlit
 opencv-python-headless
 numpy
+face-recognition-models
 face-recognition
